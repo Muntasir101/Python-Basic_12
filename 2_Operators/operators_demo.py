@@ -18,7 +18,7 @@ result = result - number1 # Subtraction 10
 print(result)
 result = result * result # Multiplication 100
 print(result)
-result = result / result # Divide 1
+result = result / result # Divide
 print(result)
 result = number1 % 10 # Modulo 0
 print(result)
